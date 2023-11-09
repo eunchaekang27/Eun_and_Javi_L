@@ -17,6 +17,6 @@ while animal == "yes":
   if an_animal == "no":
     print(f"The number of animals with less than 2 years are {lessthan2}")
     print(f"The number of animals between 2 and 5 years are {between2and5}")
-    print(f"The number of animals between 5 and 10 are {between5and10}")
+    print(f"The number of animals between 5 and 10 years are {between5and10}")
     print(f"The number of animals with 10 or more years are {greaterorequalthan10}")
     break
